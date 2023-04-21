@@ -7,10 +7,10 @@ Welcome to my Github profile!
 I am a highly experienced frontend engineer with a passion for creating visually stunning and user-friendly web applications. With over 6 years of industry experience, I have a wealth of knowledge in a variety of technologies.
 
 #### Technical Skills
-- 7+ years: HTML, CSS and JavaScript
-- 6+ years: Angular, TypeScript, Nodejs, MySQL, MongoDB, Docker, RESTful APIs and Git.
-- 3+ years: React and Vue
-- 2+ years: GraphQL and AWS
+- 8+ years: HTML, CSS and JavaScript
+- 7+ years: Angular, TypeScript, Nodejs, MySQL, MongoDB, Docker, RESTful APIs and Git.
+- 4+ years: React and Vue
+- 3+ years: GraphQL and AWS
 
 I am always looking to expand my skillset and am currently learning Golang.
 
