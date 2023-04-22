@@ -1,10 +1,10 @@
 ## Rodgers Tanui
 
-#### Senior Frontend Engineer
+#### Senior Software Engineer
 
 Welcome to my Github profile! 
 
-I am a highly experienced frontend engineer with a passion for creating visually stunning and user-friendly web applications. With over 6 years of industry experience, I have a wealth of knowledge in a variety of technologies.
+I am a highly experienced software engineer with a passion for creating visually stunning and user-friendly web applications. With over 7 years of industry experience, I have a wealth of knowledge in a variety of technologies.
 
 #### Technical Skills
 - 8+ years: HTML, CSS and JavaScript
